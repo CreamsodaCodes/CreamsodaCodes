@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CreamsodaCodes
 - 👀 I’m interested in problem solving
+- 📖 Currently studing Bioinformatics at TUM/LMU in Munich
 - 🌱 I’m currently learning more languages
 - 💞️ I’m looking to collaborate on projects :)
 
